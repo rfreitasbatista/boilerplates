@@ -106,6 +106,23 @@
 
 [Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
 
+[GitHub userscripts](https://github.com/Mottie/GitHub-userscripts)
+
+[Adonis API application](https://github.com/adonisjs/adonis-api-app)
+
+[Adonis Boilerplate JWT](https://github.com/jsnomad/adonis-jwt-boilerplate)
+
+[Adonis Boilerplate](https://github.com/Frubana/adonis-boilerplate)
+
+[AdonisJs + LucidMongo + Swagger jsdoc Application](https://github.com/duyluonglc/adonis-mongodb-boilerplate)
+
+[Adonis 5 Boilerplate](https://github.com/koffelab/adonis-boilerplate)
+
+[Adonis REST API application](https://github.com/FlashWS/adonis-api-boilerplate)
+
+[Hackaton Adonis Boilerplate](https://github.com/iamraphson/adonisjs-hackathon-starter)
+
+[Welcome to AdonisJS JWT](https://github.com/amitkhare/adonis-jwt-api-starter)
 
 ## Frontend
 
@@ -136,6 +153,8 @@
 [netcore-boilerplate](https://github.com/lkurzyniec/netcore-boilerplate)
 
 [AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
+
+[Ultimate SAAS template Typescript/Next.js/NextAuth.js/Prisma/Stripe/Tailwindcss/Postgresql](https://github.com/gmpetrov/ultimate-saas-ts)
 
 
 
@@ -192,3 +211,17 @@
 [Top Open Source CI](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know)
 
 [Quarkus for Spring Dev](https://developers.redhat.com/articles/2021/09/20/quarkus-spring-developers-getting-started#where_to_learn_more)
+
+[How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
+
+[Kubernetes the AWSome Way!](https://github.com/aws-samples/aws-workshop-for-kubernetes)
+
+[A Look at GitOps for the Modern Enterprise](https://thenewstack.io/a-look-at-gitops-for-the-modern-enterprise/)
+
+[Node.js best practices list (July 2021)](https://dev.to/alexandrefreire/node-js-best-practices-list-july-2021-3p4k)
+
+[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
+
+[Public APIs](https://github.com/public-apis/public-apis)
+
+
