@@ -130,6 +130,10 @@
 
 [Awesome Nest](https://github.com/nestjs/awesome-nestjs)
 
+[netcore-boilerplate](https://github.com/lkurzyniec/netcore-boilerplate)
+
+[AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
+
 ## Frontend
 
 [Basic SPA - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/basic#logos)
@@ -155,10 +159,6 @@
 [Angular 8 - Boilerplate - CircleCI](https://github.com/smarlhens/ng8-boilerplate)
 
 [React 17 web application on AWS Lambda using the Serverless Framework.](https://github.com/arabold/serverless-react-boilerplate)
-
-[netcore-boilerplate](https://github.com/lkurzyniec/netcore-boilerplate)
-
-[AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
 
 [Ultimate SAAS template Typescript/Next.js/NextAuth.js/Prisma/Stripe/Tailwindcss/Postgresql](https://github.com/gmpetrov/ultimate-saas-ts)
 
