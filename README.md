@@ -28,8 +28,6 @@
 
 [Express PassportJS Mongoose](https://github.com/sanoofp/nodejs-passportjs-authentication-boilerplate)
 
-[Typescript API Jest](https://github.com/a5g/jest-api-test-boilerplate)
-
 [API Typescript DDD](https://github.com/talyssonoc/node-api-boilerplate)
 
 [GraphQL API Jest](https://github.com/kriasoft/relay-starter-kit)
@@ -40,7 +38,61 @@
 
 [Node and TypeScript - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/node-ts#logos)
 
+[ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)
 
+[Github Templates Guidelines](https://github.com/cezaraugusto/github-template-guidelines/tree/master/.github)
+
+[gRPC web boilerplate](https://github.com/esplo/grpc-web-boilerplate)
+
+[Node Server boilerplate using Typescript and OpenApi v3](https://github.com/Jiratech/boilerplates-express-typescript-openapi)
+
+[Java boilerplate with login using OpenApi v3](https://github.com/Jiratech/boilerplates-java-openapi)
+
+[Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter)
+
+[FlaskSkeleton](https://github.com/melvin0008/FlaskBoilerplate)
+
+[django-starter-template](https://github.com/fasouto/django-starter-template)
+
+[Laravel -AngularJS-CouchDB-Redis-Sendgrid-Beanstalk Template](https://github.com/melvin0008/laravel-angular)
+
+[go-react-boilerplate](https://github.com/sharath/go-react-boilerplate)
+
+[Grafana dashboards for AWS CloudWatch](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
+
+[A Synthetic Java Robot for end-to-end monitoring of Web Portals in a Grafana Dashboard with InfluxDB, TestNG and Selenium.](https://github.com/eclements/portalcheckmini)
+
+[Grafana Client](https://github.com/appnexus/grafana-api-java-client)
+
+[Hands On Lab on Spring Boot & OpenShift](https://github.com/redhat-microservices/lab_springboot-openshift)
+
+[Java Cookie](https://github.com/js-cookie/java-cookie)
+
+[JavaScript Cookie](https://github.com/js-cookie/js-cookie)
+
+[Quick Start Java & MongoDB Project](https://github.com/MaBeuLux88/java-spring-boot-mongodb-starter)
+
+[Spring for Apache Kafka](https://github.com/spring-projects/spring-kafka)
+
+[Declarative Kafka Resource Definitions (for Spring)](https://github.com/idealo/deckard)
+
+[Spring Domain Driven Design Boilerplate](https://github.com/dolap-tech/spring-ddd-boilerplate)
+
+[Quarkus Domain Driven Design Boilerplate](https://github.com/dolap-tech/quarkus-ddd-boilerplate)
+
+[Cloud Examples](https://github.com/pulumi/examples)
+
+[Microservice pattern with GraphQL API and GRPC Microservices](https://github.com/juicycleff/ultimate-backend)
+
+[Azure Serverless Microservices](https://github.com/Azure-Samples/Serverless-microservices-reference-architecture)
+
+[Cloud Run Samples](https://github.com/GoogleCloudPlatform/cloud-run-samples)
+
+[Awesome Microservices Tools](https://github.com/mfornos/awesome-microservices)
+
+[Quarkus microservice](https://github.com/IBM/template-quarkus)
+
+[quarkus-github-flow project](https://github.com/javieraviles/quarkus-github-flow)
 
 
 ## Frontend
@@ -55,10 +107,41 @@
 
 [TypeScript - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/ts#logos)
 
-[Cypress - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/cypress#logos)
-
 [Nuxt - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt#logos)
 
+[Ignite - the hottest React Native boilerplate](https://github.com/infinitered/ignite)
+
+[React Starter Kit](https://github.com/kriasoft/react-starter-kit)
+
+[Electron Boilerplate](https://github.com/szwacz/electron-boilerplate)
+
+[Angular Boilerplate](https://github.com/juanmesa2097/angular-boilerplate)
+
+[Angular 8 - Boilerplate - CircleCI](https://github.com/smarlhens/ng8-boilerplate)
+
+## Test
+
+[Cypress-boilerplate](https://github.com/guiyomh/cypress-boilerplate)
+
+[Cypress - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/cypress#logos)
+
+[Typescript API Jest](https://github.com/a5g/jest-api-test-boilerplate)
+
+[JUnit 5 Samples](https://github.com/junit-team/junit5-samples)
+
+[Simple boilerplate with React, Webpack, Jest and Sass support](https://github.com/darkmavis1980/react-jest-boilerplate)
+
+[react-enzyme-tutorial](https://github.com/tarrnobi/react-enzyme-boilerplate)
+
+## Mobile
+
+[kotlin-skeleton](https://github.com/tinhtun/kotlin-skeleton)
+
+[Android Kotlin Boilerplate](https://github.com/celerik/android-kotlin-boilerplate)
+
+[AndroidKickstartR](https://github.com/takimafr/androidkickstartr)
+
+[IOS Boilerplate](https://github.com/gimenete/iOS-boilerplate)
 
 # Tutorials
 
@@ -69,3 +152,9 @@
 [Continuous integration with Docker and Jenkins](https://www.infoworld.com/article/3637829/continuous-integration-with-docker-and-jenkins.html)
 
 [Domain-Driven Design with Value-Added Services and Domain Gateways at SoundCloud](https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/)
+
+[Using Spring with Apache Kafka - Full Introduction](https://www.confluent.io/blog/using-spring-with-apache-kafka-full-introduction/)
+
+[Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
+
+[Get started with Prometheus with these three easy projects - Grafana](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)
