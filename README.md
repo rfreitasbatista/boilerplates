@@ -94,6 +94,18 @@
 
 [quarkus-github-flow project](https://github.com/javieraviles/quarkus-github-flow)
 
+[spring-react-boilerplate](https://github.com/pugnascotia/spring-react-boilerplate)
+
+[spring-microservices-boilerplate](https://github.com/danielliao11/spring-microservice-boilerplate)
+
+[java-backend-boilerplate](https://github.com/ilja903/java-backend-boilerplate)
+
+[Serverless Examples](https://github.com/serverless/examples)
+
+[user-microservice](https://github.com/rolandkrueger/user-microservice)
+
+[Amazon EKS Anywhere](https://github.com/aws/eks-anywhere)
+
 
 ## Frontend
 
@@ -119,6 +131,14 @@
 
 [Angular 8 - Boilerplate - CircleCI](https://github.com/smarlhens/ng8-boilerplate)
 
+[React 17 web application on AWS Lambda using the Serverless Framework.](https://github.com/arabold/serverless-react-boilerplate)
+
+[netcore-boilerplate](https://github.com/lkurzyniec/netcore-boilerplate)
+
+[AWS Boilerplate](https://github.com/apptension/aws-boilerplate)
+
+
+
 ## Test
 
 [Cypress-boilerplate](https://github.com/guiyomh/cypress-boilerplate)
@@ -132,6 +152,10 @@
 [Simple boilerplate with React, Webpack, Jest and Sass support](https://github.com/darkmavis1980/react-jest-boilerplate)
 
 [react-enzyme-tutorial](https://github.com/tarrnobi/react-enzyme-boilerplate)
+
+[ext.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI](https://github.com/pankod/next-boilerplate)
+
+[TheCodingMachine React Native boilerplate](https://github.com/thecodingmachine/react-native-boilerplate)
 
 ## Mobile
 
@@ -158,3 +182,13 @@
 [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 
 [Get started with Prometheus with these three easy projects - Grafana](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)
+
+[DevOps Resources](https://github.com/bregman-arie/devops-resources)
+
+[User management microservice (Part 1): Defining domain model and REST API](https://craftingjava.com/blog/user-management-domain-model-rest-api/)
+
+[Microservices with Spring](https://spring.io/blog/2015/07/14/microservices-with-spring)
+
+[Top Open Source CI](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know)
+
+[Quarkus for Spring Dev](https://developers.redhat.com/articles/2021/09/20/quarkus-spring-developers-getting-started#where_to_learn_more)
