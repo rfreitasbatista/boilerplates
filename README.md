@@ -124,6 +124,12 @@
 
 [Welcome to AdonisJS JWT](https://github.com/amitkhare/adonis-jwt-api-starter)
 
+[Awesome NestJS v8 Boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)
+
+[NestJS Boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate)
+
+[Awesome Nest](https://github.com/nestjs/awesome-nestjs)
+
 ## Frontend
 
 [Basic SPA - Boilerplate Features](https://github.com/CKGrafico/Frontend-Boilerplates/tree/basic#logos)
